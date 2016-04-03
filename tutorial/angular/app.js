@@ -8,6 +8,4 @@
   app.controller('StoreController', function(){
     this.product = gem;
   });
-  alert(1);
-  
 })();
