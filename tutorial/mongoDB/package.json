@@ -1,0 +1,22 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^2.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "console.log('hello mongoDB');"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "mgdb"
+  ],
+  "author": "higore",
+  "license": "ISC"
+}
